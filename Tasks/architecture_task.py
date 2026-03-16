@@ -6,7 +6,7 @@ architecture_task = Task(
     Read product requirements and design system architecture.
 
     Produce:
-    architecture.md
+    solution_architecture.md
     system_flow.md
     tech_stack.md
 
